@@ -22,7 +22,7 @@
             "containers":[
                {
                   "name":"green",
-                  "image":"karimg75/testgreenimage",
+                  "image":"rradi/testgreenimage",
                   "ports":[
                      {
                         "name":"http-server",
