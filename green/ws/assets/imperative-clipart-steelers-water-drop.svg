@@ -1,0 +1,39 @@
+<?xml version="1.0"?><svg width="1280" height="960" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter x="-0.307751" width="1.615501" y="-0.25745" height="1.5149" id="filter3537">
+   <feGaussianBlur stdDeviation="13.005789" id="feGaussianBlur3539"/>
+  </filter>
+  <linearGradient id="linearGradient3534">
+   <stop stop-color="#ffffff" offset="0" id="stop3536"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="stop3538"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3544">
+   <stop stop-color="#ffffff" offset="0" id="stop3546"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="stop3548"/>
+  </linearGradient>
+  <radialGradient r="189.35699" fy="658.84564" fx="481.38342" cy="658.84564" cx="481.38342" gradientTransform="matrix(0.7872670888900757,-0.7655289173126221,0.7308465838432312,0.7516002058982849,-103.852783203125,501.66290283203125)" gradientUnits="userSpaceOnUse" id="radialGradient2469" xlink:href="#linearGradient3534"/>
+  <radialGradient r="197.2068" fy="350.62665" fx="271.67026" cy="350.62665" cx="271.67026" gradientTransform="matrix(0.7288615703582764,0.36706864833831787,-1.2478365898132324,2.1528751850128174,791.3798828125,-518.5208740234375)" gradientUnits="userSpaceOnUse" id="radialGradient2471" xlink:href="#linearGradient3544"/>
+  <symbol id="svg_53" height="960" width="1280">
+   <title>large Canvas</title>
+   <metadata id="svg_52">image/svg+xml</metadata>
+   <g>
+    <title>Layer 1</title>
+    <g id="svg_47">
+     <path d="m849.768188,585.910278c0,117.774902 -100.12561,213.360352 -223.494751,213.360352c-123.369324,0 -225.777344,-95.60675 -223.494751,-213.360352c3.032715,-157.951904 125.904541,-222.288574 223.494751,-403.829041c103.655762,175.588379 223.494751,286.054138 223.494751,403.829041z" stroke-dashoffset="0" stroke-miterlimit="4" marker-end="none" marker-mid="none" marker-start="none" stroke-width="3" fill-rule="evenodd" fill="#000000" id="svg_51" transform="rotate(0.544597, 626.256, 490.676)"/>
+     <g id="svg_48">
+      <path d="m818.095459,587.429749c0,107.058655 -89.203003,193.946838 -199.113892,193.946838c-109.911072,0 -201.147522,-86.907532 -199.113953,-193.946838c2.701904,-143.579987 112.169678,-202.062683 199.113953,-367.085022c92.348022,159.611755 199.113892,260.026306 199.113892,367.085022z" stroke-dashoffset="0" stroke-miterlimit="4" marker-end="none" marker-mid="none" marker-start="none" stroke-width="3" fill-rule="evenodd" fill="#2929db" id="svg_50" transform="rotate(1.44168, 618.967, 500.861)"/>
+      <path id="svg_49" d="m826.413574,583.094604c0,105.894836 -88.341187,191.838562 -197.190186,191.838562c-108.849121,0 -199.204102,-85.96283 -197.190186,-191.838562c2.675781,-142.019226 111.085938,-199.86618 197.190186,-363.094604c91.455811,157.876678 197.190186,257.199707 197.190186,363.094604z" stroke-dashoffset="0" stroke-miterlimit="4" marker-end="none" marker-mid="none" marker-start="none" stroke-width="3" fill-rule="evenodd" fill="#f2cb32"/>
+     </g>
+    </g>
+   </g>
+  </symbol>
+ </defs>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <use x="401.184921" y="146.984669" transform="matrix(0.897342, 0, 0, 0.894858, -297.979, -121.29)" xlink:href="#svg_53" id="svg_55"/>
+  <path transform="rotate(-1.12795, 632.207, 453.465)" opacity="0.698551" fill="url(#radialGradient2471)" fill-rule="evenodd" stroke-width="3" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m815.35083,528.826477c0,93.196533 -82.041565,168.834412 -183.128662,168.834412c-101.087097,0 -184.998749,-75.654663 -183.128571,-168.834412c2.485077,-124.989105 103.164642,-175.899445 183.128571,-319.554474c54.914368,463.437714 183.128662,226.35788 183.128662,319.554474z" id="path3542"/>
+  <path opacity="0.698551" fill="url(#radialGradient2469)" fill-rule="evenodd" stroke-width="3" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m807.605591,520.649597c0,101.679565 -84.824829,184.202332 -189.340942,184.202332c-104.516602,0 -191.274902,-82.541016 -189.341309,-184.202332c2.569336,-136.366211 106.664551,-191.910645 189.341309,-348.641724c87.815186,151.592377 189.340942,246.961914 189.340942,348.641724z" id="path3520"/>
+  <path opacity="0.823188" fill="#ffffff" fill-opacity="0.800578" fill-rule="evenodd" stroke-width="3" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" filter="url(#filter3537)" id="path3541" d="m605.047607,337.979675a18.190315,11.281034 0 1 1 -36.380737,41.837433a18.190315,11.281034 0 1 1 36.380737,-41.837433z"/>
+ </g>
+</svg>
